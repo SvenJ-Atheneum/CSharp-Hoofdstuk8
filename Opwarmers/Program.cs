@@ -8,7 +8,7 @@ namespace Opwarmers
         static void Main(string[] args)
         {
             /*
-            Opwarmer 1
+            //Opwarmer 1
             int[] getallen = new int[100];
             for (int i = 1; i <= getallen.Length; i++)
             {
